@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GreenDaoDemo</string>
+
+    <string name="txt_add_data">添加数据</string>
+    <string name="txt_clear_data">清空数据</string>
+
+    <string name="txt_query_stu_info">查询学生信息</string>
+    <string name="txt_query_stu_score">查询学生成绩</string>
+    <string name="txt_query_class_avg_score">查询班级平均成绩</string>
+
 </resources>
